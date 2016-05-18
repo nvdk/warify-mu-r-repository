@@ -1,5 +1,4 @@
 require 'rjack-slf4j'
-require 'rjack-slf4j'
 require 'rjack-logback'
 require 'sinatra'
 require 'sparql/client'
